@@ -1,0 +1,11 @@
+{
+"name": "myDateModule",
+"version": "1.0.0",
+"description": "A simple module that returns the current date and time",
+"main": "myDate.js",
+"keywords": [
+"date",
+"time"
+],
+"author": "Reguvel"
+}
